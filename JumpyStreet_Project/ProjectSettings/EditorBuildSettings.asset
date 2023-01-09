@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2c8136ed3e89d1f48a51286f80f45813
+  - enabled: 1
+    path: Assets/Scenes/JumpyStreet.unity
+    guid: 978903272584f1d4fb0fc90f853c5a33
+  m_configObjects: {}
